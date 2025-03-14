@@ -56,7 +56,7 @@ Let's collaborate, chat about tech, or just say hi! Here's where you can find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Enigma1x-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enigma1x/)
 [![Twitter](https://img.shields.io/badge/Twitter-Enigma1x-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Enigma1x)
 [![YouTube](https://img.shields.io/badge/YouTube-Enigma1x-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Enigma1xyt)
-[![Twitch](https://img.shields.io/badge/Twitch-Enigma1x-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/Enigma1x)
+[![Twitch](https://img.shields.io/badge/Twitch-Enigma1x-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/iEnigma1x)
 [![Kick](https://img.shields.io/badge/Kick-Enigma1x-53FC18?style=for-the-badge&logo=kick&logoColor=black)](https://kick.com/Enigma1x)
 [![Discord](https://img.shields.io/badge/Discord-Enigma1x-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Enigma1x)
 
