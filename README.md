@@ -6,6 +6,11 @@ I'm an ambitious developer who loves diving into new challenges and learning new
 
 ---
 
+![This isn't Working](assets/This_isnt_Working.gif)
+
+---
+
+
 ### Technologies & Tools 🛠️
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cs,wasm,git,github,vscode)](https://skillicons.dev)
@@ -18,9 +23,6 @@ I'm an ambitious developer who loves diving into new challenges and learning new
 - **Git & GitHub**: Version control and collaboration.
 - **Visual Studio Code**: My go-to code editor.
 
----
-
-![This isn't Working](assets/This_isnt_Working.gif)
 ---
 
 ### Featured Projects 🚀
