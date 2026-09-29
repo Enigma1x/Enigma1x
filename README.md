@@ -1,90 +1,58 @@
 <h1 align="center">Hi, I'm Steven 👋</h1>
 
 <p align="center">
-  Passionate developer and lifelong learner, always exploring new technologies and pushing creative boundaries.  
+  Developer from Costa Rica who enjoys building, experimenting and learning.
 </p>
 
 <p align="center">
-  <img src="assets/This_isnt_Working.gif" width="400" alt="This isn't Working gif" />
+  <a href="https://github.com/Enigma1x">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/enigma1x/">LinkedIn</a> ·
+  <a href="mailto:rs.me82003@gmail.com">Email</a> ·
+  <a href="https://www.youtube.com/@Enigma1xyt">YouTube</a>
 </p>
 
 ---
 
-### 🧠 About Me
+### What I do
 
-I'm an enthusiastic developer who enjoys learning, experimenting, and building things from scratch.  
-I believe that curiosity and persistence are the best tools a programmer can have.
+- Build modern web applications and desktop tools.
+- Work with APIs, databases, authentication and real-time features.
+- Explore automation, local AI and developer tooling.
+- Learn by building and documenting real projects.
 
-- 💻 I love **problem solving** and creating efficient solutions.  
-- 🌱 Currently learning **Go** and **React**.  
-- ⚡ Fun fact: I debug my dreams sometimes.  
+### Skills
 
----
-
-### 🛠️ Technologies & Tools
-
-#### 💻 Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,python,js,html,css,wasm" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css,react,nextjs,vite,tailwind,supabase,postgres,sqlite,electron,git" alt="Technologies" />
 </p>
 
-#### ⚙️ Frameworks & Libraries
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,react" />
-  </a>
-</p>
+**Languages:** JavaScript, TypeScript, Python, C#, SQL, HTML and CSS  
+**Frontend:** React, Next.js, Vite, Tailwind CSS, React Router and Zustand  
+**Backend and data:** Supabase, PostgreSQL, SQLite, RLS, REST APIs and realtime features  
+**Desktop and automation:** Electron, Qt, Windows automation, OCR, audio and speech tools  
+**AI and tooling:** RAG, MCP, Graphiti, Neo4j, PyTorch, Transformers, LoRA and local models  
+**Quality and workflow:** Git, GitHub, ESLint, Vitest, builds, releases and technical documentation
 
-#### 🛢️ Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres" />
-  </a>
-</p>
+### Featured projects
 
-#### ☁️ Tools i used
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,notion,powershell,vscode,cpp,docker,git,tailwind," />
-  </a>
-</p>
+- **Ecommerce Reppesa** — Ecommerce developed for the family business Reppesa using React, TypeScript, Tailwind CSS and Supabase.
 
----
+- **ViruFlix** — Web and desktop streaming platform with React, Electron, Supabase and external APIs.
 
-### 🚀 Featured Projects
+- **ViruFlow TaskManager** — Collaborative application for workspaces, tasks, notes, chat, profiles and notifications.
 
-- **[AppCitas – Appointment System](https://github.com/Enigma1x/AppCitas-Tarea-SinInterfaz)**  
-  Console-based appointment manager built with C#. Focused on backend logic and clean architecture.
+- **RUN RRHH** — Product blueprint for a multi-company human resources platform in Costa Rica.
 
-- **[Portafolio Pro – Personal Website](https://github.com/Enigma1x/Portafolio-Pro)**  
-  Modern responsive portfolio using HTML, CSS, and JS. Designed to be elegant and lightweight.
+- **Clicky Windows** — Local desktop assistant with memory, automation, voice features and project retrieval.
 
-- **[More Projects →](https://github.com/Enigma1x?tab=repositories)**  
-  I’m always building something new. Come take a look!
-
----
+- **[Pokémon Battle](https://github.com/Enigma1x/PokemonAPI-VS)** — JavaScript project using PokeAPI, asynchronous programming and LocalStorage.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Enigma1x&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&title_color=FF79C6&text_color=F8F8F2" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enigma1x&layout=compact&theme=dracula&hide_border=true&bg_color=00000000&title_color=FF79C6&text_color=F8F8F2" height="150"/>
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Enigma1x"><img src="https://img.shields.io/badge/GitHub-Enigma1x-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/enigma1x/"><img src="https://img.shields.io/badge/LinkedIn-Enigma1x-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/Enigma1x"><img src="https://img.shields.io/badge/Twitter-Enigma1x-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://www.youtube.com/@Enigma1xyt"><img src="https://img.shields.io/badge/YouTube-Enigma1x-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://www.twitch.tv/iEnigma1x"><img src="https://img.shields.io/badge/Twitch-Enigma1x-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+  <a href="https://github.com/Enigma1x?tab=repositories">View all repositories →</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Steam-Enigma1x-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  Thanks for visiting my profile.
 </p>
