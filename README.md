@@ -51,6 +51,21 @@
   <a href="https://github.com/Enigma1x?tab=repositories">View all repositories →</a>
 </p>
 
+### GitHub activity
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Enigma1x&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"
+    height="165"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=Enigma1x&theme=transparent&hide_border=true&locale=es"
+    height="165"
+    alt="GitHub contribution streak"
+  />
+</p>
+
 ---
 
 <p align="center">
